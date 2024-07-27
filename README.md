@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Devansh-ds
 - 👀 I’m interested in learning Android Development and App Development
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning xml 
 - 💞️ I’m looking to collaborate to make some projects and learn
 - 📫 How to reach me ... Devanshsingla9@gmail.com
 - I'm interested in participating in coding contest, learn new things and make some projects

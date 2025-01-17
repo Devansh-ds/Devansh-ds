@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Devansh-ds
-- 👀 I’m interested in learning App Development and Backend Development using Java
-- 🌱 I’m currently learning Spring Framework
+- 👀 I’m interested in learning Backend Development using Java
+- 🌱 I’m currently learning Microservices
 - 💞️ I’m looking to collaborate to make some projects and learn
 - 📫 How to reach me ... Devanshsingla9@gmail.com
 - I'm interested in participating in coding contest, learn new things and make some projects

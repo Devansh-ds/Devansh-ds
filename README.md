@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Devansh-ds<br><br>👀 I’m interested in learning Backend Development using Java<br><br>🌱 I’m currently learning Reactjs<br><br>💞️ I’m looking to collaborate to make some projects and learn<br><br>📫 How to reach me ... Devanshsingla9@gmail.com<br><br>I'm interested in participating in coding contest, learn new things and make some projects<br>
+👋 Hi, I’m @Devansh-ds<br><br>👀 I’m interested in learning Backend Development using Java<br><br>🌱 I’m currently learning Design patterns<br><br>💞️ I’m looking to collaborate to make some projects and learn<br><br>📫 How to reach me ... Devanshsingla9@gmail.com<br><br>I'm interested in participating in coding contest, learn new things and make some projects<br>
 
 
 ## 🌐 Socials:
